@@ -1,0 +1,2 @@
+# clash_ini
+修改https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/lhie1_dler.ini
